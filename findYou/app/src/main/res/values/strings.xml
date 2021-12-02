@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Find You</string>
+    <string name="Cuenta">Crear una Cuenta</string>
+    <string name="loggin_faceboock">Conéctate con Faceboock</string>
+    <string name="loggin_google">Conéctate con Google</string>
+    <string name="loggin_email">Digite su Correo</string>
+    <string name="loggin_password">Digite su Contraseña</string>
+    <string name="loggin_acceder">Acceder</string>
+    <string name="registro_email">Correo*</string>
+    <string name="registro_password">Contraseña*</string>
+    <string name="registro_nombre">Nombres*</string>
+    <string name="registro_apellido">Apellidos*</string>
+    <string name="registro_crearCuenta">Crear Cuenta</string>
+    <string name="registro_titulo">Crea tu cuenta</string>
+    <string name="menu_titulo">Menú</string>
+    <string name="menu_titulo2">Ubica a tu familia o amigos</string>
+    <string name="menu_pagrafo">Forma grupos de contactos y localiza a tus seres queridos</string>
+    <string name="menu_btnRed">Crea y visualiza tus redes de contactos</string>
+    <string name="menu_btnBuscar">Encuentra a tu contacto</string>
+    <string name="title_activity_crear_contacto">crearContacto</string>
+    <string name="crear_persona">Digite la Persona</string>
+    <string name="crear_parentesco">Digite el parentesco</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="buscar_persona">"Escribe la Persona"</string>
+    <string name="txt_crear_longitud">Digite la Longitud</string>
+    <string name="txt_crear_latitud">Digite la Latitud</string>
+    <string name="txt_confirmarcontra">Confirmar Contraseña*</string>
+
+</resources>
